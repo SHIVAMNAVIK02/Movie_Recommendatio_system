@@ -4,7 +4,7 @@ import pandas as pd
 import requests
 
 # TMDb API Key
-API_KEY = "f26f5ed89f1528e02dd7a59dda7a9264"
+API_KEY = "292a14387472ea59790d17fbd8bfc895"
 BASE_URL = "https://api.themoviedb.org/3"
 
 # Load movie data
